@@ -18,6 +18,7 @@ Also sometimes breaking it. On purpose.
 - I sometimes write words at cb341.dev
 - Currently learning Rust, compiler yells at me but we are getting there
 - Very interested in low level computers, ASM, transistors, logic and how bits actually think
+- I am a [Logician](https://www.16personalities.com/free-personality-test) (INT-P)
 
 ## Stuff I like
 
@@ -25,7 +26,6 @@ Also sometimes breaking it. On purpose.
 - Factory simulation games, I liekw using calculators
 - Computer graphics, like digging around in pixels, very newbie but curious
 - Unix systems and friendly terminals
-- Mathematics, sometimes it likes me back
 
 ## Things I also like doing
 
@@ -33,6 +33,9 @@ Also sometimes breaking it. On purpose.
 - "Occasionaly" create and review Memes
 - Yap on Discord
 - Sometimes I write some words. RSS: https://cb341.dev/rss.xml
+- Calculus / Algebra
+- Reading papers
+- Overthinking
 
 ## Some _recent-ish_ stuff
 
