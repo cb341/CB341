@@ -32,6 +32,7 @@ Also sometimes breaking it. On purpose.
 - I like breaking stuff
 - "Occasionaly" create and review Memes
 - Yap on Discord
+- Sometimes I write some words. RSS: https://cb341.dev/rss.xml
 
 ## Some _recent-ish_ stuff
 
