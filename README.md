@@ -42,6 +42,11 @@ Also sometimes breaking it. On purpose.
 - Reading papers
 - Overthinking
 
+
+### Teh tech I touch
+
+<img src="https://skillicons.dev/icons?i=apple,arch,astro,bash,bevy,blender,bootstrap,bun,devto,git,graphql,heroku,java,latex,neovim,nix,notion,obsidian,p5js,postgres,rails,react,ruby,rust,sass,tailwind,threejs,ts,vim,wasm&perline=10" />
+
 ### Some _recent-ish_ stuff
 
 
@@ -53,6 +58,3 @@ Also sometimes breaking it. On purpose.
 | **Basic 64 Byte RAM component** | I like having many tabs open. Was wondering how RAM works internally. I like to learn by doing so I have a naive (emulated) hardware impl. More info in my [reddit post](https://www.reddit.com/r/TuringComplete/comments/1mvqjvt/64bytes_of_ram_made_of_1bit_logic_gates/). | <img width="1080" height="859" alt="image" src="https://github.com/user-attachments/assets/2125e7d5-8b27-4459-b08f-0fce7f4948fd" /> |
 | **Hardware RMU (Ray Marching Unit) concept**     | Goal is to design hardware in an emulator that is optimized to perform ray marching on a set of primitives, making use of SIMD (Single Instruction Multiple Data). Not quite ready to show yet but it will be super cool!                                                                                                                           | <img width="1928" height="1922" alt="CleanShot 2025-09-02 at 23 51 39@2x" src="https://github.com/user-attachments/assets/619ee8da-58d5-4ee7-8027-f3d49fa9f99d" />     |
 
-### Teh tech I touch
-
-<img src="https://skillicons.dev/icons?i=apple,arch,astro,bash,bevy,blender,bootstrap,bun,devto,git,graphql,heroku,java,latex,neovim,nix,notion,obsidian,p5js,postgres,rails,react,ruby,rust,sass,tailwind,threejs,ts,vim,wasm&perline=10" />
